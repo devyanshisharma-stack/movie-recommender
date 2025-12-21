@@ -2,15 +2,15 @@
  *  What to Watch Part One readme template
 **********************************************************************
 
-Name:
-PennKey:
+Name: Devyanshi Sharma
+PennKey: devys
 Hours to complete assignment (optional):
 
 **********************************************************************
  *  Describe any serious problems you encountered.
 **********************************************************************
 
-
+None.
 
 
 
@@ -19,7 +19,7 @@ Hours to complete assignment (optional):
  *  students? 
 **********************************************************************
 
-
+No.
 
 
 
@@ -36,7 +36,9 @@ Hours to complete assignment (optional):
  **********************************************************************
 
 
-
+I did not receive any help outside of TA office hours. I did not
+collaborate with anyone, and I did not use any resources beyond the
+standard course materials.
 
 
 **********************************************************************
